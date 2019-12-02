@@ -20,3 +20,8 @@
 .App-link {
   color: #09d3ac;
 }
+
+.releaseInfo {
+  border: 1px solid #333;
+  width: 200px;
+}
